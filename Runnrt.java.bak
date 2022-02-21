@@ -1,0 +1,18 @@
+
+
+class Runnrt
+{
+public static void main(String[]ars)
+{
+	
+	Slider s = new Slider();
+	
+	
+}
+
+
+
+
+
+
+}
